@@ -1,0 +1,24 @@
+cloud_pct.innerHTML = response.cloud_pct 
+temp.innerHTML = response.temp 
+feels_like.innerHTML = response.feels_like 
+humidity.innerHTML = response.humidity 
+min_temp.innerHTML = response.min_temp 
+max_temp.innerHTML = response.max_temp 
+wind_speed.innerHTML = response.wind_speed 
+wind_degrees.innerHTML = response.wind_degrees 
+sunrise.innerHTML = response.sunrise 
+sunset.innerHTML = response.sunset 
+
+
+
+c_p.innerHTML = response.c_p
+f_l.innerHTML = response.f_l
+hu.innerHTML = response.hu
+ma_t.innerHTML = response.ma_t
+mi_t.innerHTML = response.mi_t
+sr.innerHTML = response.sr
+ss.innerHTML = response.ss
+te.innerHTML = response.te
+w_d.innerHTML = response.w_d
+w_s.innerHTML = response.w_s
+
